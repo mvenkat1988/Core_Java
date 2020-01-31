@@ -50,5 +50,6 @@ public class HasSetEx {
 			System.err.println(object+"-------"+Collections.frequency(al, object));
 			}
 		}
+		
 	}
 }
